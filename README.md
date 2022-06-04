@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peppamodmenus
+- 👋 Hi, I’m peppa
 - 👀 I’m interested in ... gtag
 - 🌱 I’m currently learning ... how to code mods from scratch
 - 💞️ I’m looking to collaborate with ... working with mango
